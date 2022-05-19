@@ -6,10 +6,9 @@
 - 📫 pode me encontrar no email arthurborba912@gmail.com  ou whatsapp (43)9 8408-9199
 - 😄 Pronouns: ele/dele
 
-nter">
+
   <a href="https://github.com/tuituy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuituy&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuituy&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuituy&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuituy&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
  

@@ -2,7 +2,7 @@
 
 
 - 🔭 estou trabalhando em projetos pessoais
-- 🌱 Estou aprendendo Html e Css e Javascript
+- 🌱 Estou aprendendo Python, Html, Css e Javascript
 - 📫 pode me encontrar no email arthurborba912@gmail.com  ou whatsapp (43)9 8408-9199
 - 😄 Pronouns: ele/dele
 
